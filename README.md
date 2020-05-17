@@ -1,5 +1,5 @@
 # docker-compose
-This is a TUI program build using python language. This project based on docker-compose using multitier architecture. In this project a user can launch multiple web servers according to his/her choice.
+This is a TUI program build using python language. This project based on docker-compose using multitier architecture. In this project a user can launch multiple web servers according to their choice.
 ## Project Title:
 This is TUI program were you can acces your data of web server using multitier architecture.  In this program user can choose from the given options to launch the web server he/she want. Here each web server is running on different port numbers , so user can launch multiple web servers simultaneously without doing it manually.
 
